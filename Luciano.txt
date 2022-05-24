@@ -1,5 +1,9 @@
 Atributos: 
 - 24 años
 - hombre
-- casado
 - Argentino
+- soltero
+
+historia:
+nacio un 12 de febrero del año 1998, su padre se llama Elio Rodolfo Massa y su madre Graciela Breatriz Iribarren.
+tiene 4 hermanos varones. ellos se llaman, Lucas, Ramiro, Guillermo y Agustin.
